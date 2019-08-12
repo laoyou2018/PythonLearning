@@ -26,3 +26,5 @@ while True:
 
     if a > 10:
         break
+
+# continue 继续下轮循环
