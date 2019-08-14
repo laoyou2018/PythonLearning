@@ -1,0 +1,4 @@
+# filter()
+# map()
+# reduce()
+# zip()
